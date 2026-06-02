@@ -16,7 +16,6 @@ Apasionado por el desarrollo de software y la construcción de soluciones escala
 * JavaScript
 * REST APIs
 * Socket.io
-* JWT Authentication
 
 ### Bases de Datos
 
