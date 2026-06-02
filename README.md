@@ -55,5 +55,3 @@ bdbastidas88@gmail.com
 LinkedIn:
 [www.linkedin.com/in/david-bastidas-backend](http://www.linkedin.com/in/david-bastidas-backend)
 
-GitHub:
-github.com/bdavidbm
